@@ -521,6 +521,10 @@ h1, h2, h3, h4 {
   font-weight: 300;
 }
 
+textarea.wiki-edit {
+  font-family: Consolas, Menlo, "Liberation Mono", Courier, monospace;
+}
+
 a, a:link, a:visited {
   color: #d92e47;
   -moz-transition: color 0.5s;
